@@ -4,13 +4,10 @@
 #### Technical Skills: Linux, Git, Github, AWS, Azure, GCP, Jenkins, Python, Docker, Kubernetes
 
 ## Education
-- B.E | Shri Vitthal Education and Research, Pandharpur (_June 2019_)
+- B.E | SVERI's COE, Pandharpur (_June 2019_)
 - H.S.C. | The University of Texas at Dallas (_July 2015_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 **Senior Systems Engineer @ Infosys Ltd (_February 2022 - Present_)**
 - Designed and implemented cloud solutions on AWS and Google Cloud following best practices and
   industry standards.
