@@ -70,13 +70,9 @@
 
 
 ## Certificates
-- AWS Certified cloud practitioner
 - [AWS Cloud Practitioner](https://github.com/Pankajp1997/Certifications)
-- AZ-900: Microsoft Azure Fundamentals
-- [AZ-900] (https://learn.microsoft.com/api/credentials/share/en-us/pankajpatil-2390/F79072F286AAC597?sharingId=A6C58CC62DD4D5AB)
-- Kubernetes (internal Infosys certificate)
-- [kuberenetes] (https://gameconfig.lex.infosysapps.com/Gamification/GetBadgeImage/?AppId=2&TokenNo=DDUPPGZGMT&BadgeCode=WREYB2VJ7I)
-- Docker
+- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/pankajpatil-2390/F79072F286AAC597?sharingId=A6C58CC62DD4D5AB)
+- [kuberenetes](https://gameconfig.lex.infosysapps.com/Gamification/GetBadgeImage/?AppId=2&TokenNo=DDUPPGZGMT&BadgeCode=WREYB2VJ7I)
 - [Docker](https://kodekloud.com/certificate-verification/2D089EEFAC05-2D0898EB2563-2D08935F5137/)
 
   ## Awards
